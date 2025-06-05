@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --name PoleChudes 'Игра "Поле Чудес".py'
